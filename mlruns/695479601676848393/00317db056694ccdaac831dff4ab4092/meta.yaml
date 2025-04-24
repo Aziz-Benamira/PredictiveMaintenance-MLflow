@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/695479601676848393/00317db056694ccdaac831dff4ab4092/artifacts
+end_time: 1745449122155
+entry_point_name: ''
+experiment_id: '695479601676848393'
+lifecycle_stage: active
+run_id: 00317db056694ccdaac831dff4ab4092
+run_name: amusing-rook-948
+run_uuid: 00317db056694ccdaac831dff4ab4092
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745449086860
+status: 4
+tags: []
+user_id: benam

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/695479601676848393/5694718888d54f59914d65020bcd16f8/artifacts
+end_time: 1745449742621
+entry_point_name: ''
+experiment_id: '695479601676848393'
+lifecycle_stage: active
+run_id: 5694718888d54f59914d65020bcd16f8
+run_name: unique-hog-759
+run_uuid: 5694718888d54f59914d65020bcd16f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745449707142
+status: 4
+tags: []
+user_id: benam

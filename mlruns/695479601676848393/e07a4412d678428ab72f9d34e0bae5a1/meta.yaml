@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/695479601676848393/e07a4412d678428ab72f9d34e0bae5a1/artifacts
+end_time: 1745443901828
+entry_point_name: ''
+experiment_id: '695479601676848393'
+lifecycle_stage: active
+run_id: e07a4412d678428ab72f9d34e0bae5a1
+run_name: preprocess
+run_uuid: e07a4412d678428ab72f9d34e0bae5a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745443899805
+status: 3
+tags: []
+user_id: benam

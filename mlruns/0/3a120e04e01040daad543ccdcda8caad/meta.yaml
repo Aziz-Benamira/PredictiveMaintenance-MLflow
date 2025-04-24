@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/benam/Downloads/PredictiveMaintenance-MLflow/mlruns/0/3a120e04e01040daad543ccdcda8caad/artifacts
+end_time: 1745524734885
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3a120e04e01040daad543ccdcda8caad
+run_name: delightful-horse-377
+run_uuid: 3a120e04e01040daad543ccdcda8caad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745524725330
+status: 4
+tags: []
+user_id: benam

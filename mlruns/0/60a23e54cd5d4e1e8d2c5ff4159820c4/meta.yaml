@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/benam/Downloads/PredictiveMaintenance-MLflow/mlruns/0/60a23e54cd5d4e1e8d2c5ff4159820c4/artifacts
+end_time: 1745453993896
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60a23e54cd5d4e1e8d2c5ff4159820c4
+run_name: victorious-ant-813
+run_uuid: 60a23e54cd5d4e1e8d2c5ff4159820c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745453984088
+status: 4
+tags: []
+user_id: benam

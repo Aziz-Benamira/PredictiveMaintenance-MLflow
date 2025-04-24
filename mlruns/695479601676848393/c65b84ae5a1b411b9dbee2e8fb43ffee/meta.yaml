@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/695479601676848393/c65b84ae5a1b411b9dbee2e8fb43ffee/artifacts
+end_time: 1745524716379
+entry_point_name: ''
+experiment_id: '695479601676848393'
+lifecycle_stage: active
+run_id: c65b84ae5a1b411b9dbee2e8fb43ffee
+run_name: gregarious-newt-169
+run_uuid: c65b84ae5a1b411b9dbee2e8fb43ffee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745524703729
+status: 4
+tags: []
+user_id: benam

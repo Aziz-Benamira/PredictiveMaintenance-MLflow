@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/695479601676848393/be837c4d2641421bbe192e075d60e906/artifacts
+end_time: 1745449946639
+entry_point_name: ''
+experiment_id: '695479601676848393'
+lifecycle_stage: active
+run_id: be837c4d2641421bbe192e075d60e906
+run_name: judicious-jay-612
+run_uuid: be837c4d2641421bbe192e075d60e906
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745449937185
+status: 4
+tags: []
+user_id: benam

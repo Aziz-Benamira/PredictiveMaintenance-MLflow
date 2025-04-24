@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/695479601676848393/d9b50567df9644838dd76c981e8a5d21/artifacts
+end_time: 1745525581240
+entry_point_name: ''
+experiment_id: '695479601676848393'
+lifecycle_stage: active
+run_id: d9b50567df9644838dd76c981e8a5d21
+run_name: rebellious-boar-60
+run_uuid: d9b50567df9644838dd76c981e8a5d21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745525573753
+status: 4
+tags: []
+user_id: benam

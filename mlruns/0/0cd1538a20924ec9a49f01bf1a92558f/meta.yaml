@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/benam/Downloads/PredictiveMaintenance-MLflow/mlruns/0/0cd1538a20924ec9a49f01bf1a92558f/artifacts
+end_time: 1745454208602
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0cd1538a20924ec9a49f01bf1a92558f
+run_name: traveling-swan-427
+run_uuid: 0cd1538a20924ec9a49f01bf1a92558f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745454198482
+status: 4
+tags: []
+user_id: benam

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/695479601676848393/fbbd062984ab4ce08c34a9405bb75db3/artifacts
+end_time: 1745448367560
+entry_point_name: ''
+experiment_id: '695479601676848393'
+lifecycle_stage: active
+run_id: fbbd062984ab4ce08c34a9405bb75db3
+run_name: kindly-mare-106
+run_uuid: fbbd062984ab4ce08c34a9405bb75db3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745448347939
+status: 4
+tags: []
+user_id: benam

@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1745446823935
+current_stage: None
+description: ''
+last_updated_timestamp: 1745446823935
+name: PredictiveMaintenanceModel
+run_id: 86f9df302707422e918240e9cf4c1af3
+run_link: ''
+source: mlflow-artifacts:/695479601676848393/86f9df302707422e918240e9cf4c1af3/artifacts/random_forest_model
+status: READY
+status_message: null
+user_id: null
+version: 1

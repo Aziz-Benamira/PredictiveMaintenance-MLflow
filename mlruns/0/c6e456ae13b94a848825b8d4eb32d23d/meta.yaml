@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/benam/Downloads/PredictiveMaintenance-MLflow/mlruns/0/c6e456ae13b94a848825b8d4eb32d23d/artifacts
+deleted_time: 1745444735876
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c6e456ae13b94a848825b8d4eb32d23d
+run_name: persistent-skunk-387
+run_uuid: c6e456ae13b94a848825b8d4eb32d23d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745332030665
+status: 1
+tags: []
+user_id: benam

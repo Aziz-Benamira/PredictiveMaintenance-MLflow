@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/benam/Downloads/PredictiveMaintenance-MLflow/mlruns/0/b2e0c041212a45dda4f4f7d4417c0675/artifacts
+end_time: 1745446779570
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b2e0c041212a45dda4f4f7d4417c0675
+run_name: resilient-fish-170
+run_uuid: b2e0c041212a45dda4f4f7d4417c0675
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745446776536
+status: 3
+tags: []
+user_id: benam

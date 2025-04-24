@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/695479601676848393/fbb3a0a3b2864374b2f622608a00a724/artifacts
+end_time: 1745533559531
+entry_point_name: ''
+experiment_id: '695479601676848393'
+lifecycle_stage: active
+run_id: fbb3a0a3b2864374b2f622608a00a724
+run_name: bold-worm-352
+run_uuid: fbb3a0a3b2864374b2f622608a00a724
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745533512861
+status: 4
+tags: []
+user_id: benam

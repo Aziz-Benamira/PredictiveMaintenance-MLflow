@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/695479601676848393/0ebb9b2ea3aa48488ab0a7718008eb0f/artifacts
+end_time: 1745525538074
+entry_point_name: ''
+experiment_id: '695479601676848393'
+lifecycle_stage: active
+run_id: 0ebb9b2ea3aa48488ab0a7718008eb0f
+run_name: crawling-lamb-502
+run_uuid: 0ebb9b2ea3aa48488ab0a7718008eb0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745525517347
+status: 3
+tags: []
+user_id: benam

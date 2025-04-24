@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/benam/Downloads/PredictiveMaintenance-MLflow/mlruns/0/64d62b2255ba4ff2b06615e7e8c0c88c/artifacts
+deleted_time: 1745444735857
+end_time: 1745441749247
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 64d62b2255ba4ff2b06615e7e8c0c88c
+run_name: beautiful-pug-761
+run_uuid: 64d62b2255ba4ff2b06615e7e8c0c88c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745441738455
+status: 4
+tags: []
+user_id: benam

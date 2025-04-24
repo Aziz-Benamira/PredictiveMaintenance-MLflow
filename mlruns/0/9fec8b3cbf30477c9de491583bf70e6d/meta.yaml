@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/benam/Downloads/PredictiveMaintenance-MLflow/mlruns/0/9fec8b3cbf30477c9de491583bf70e6d/artifacts
+end_time: 1745445007609
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9fec8b3cbf30477c9de491583bf70e6d
+run_name: abrasive-goat-662
+run_uuid: 9fec8b3cbf30477c9de491583bf70e6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745444993932
+status: 3
+tags: []
+user_id: benam

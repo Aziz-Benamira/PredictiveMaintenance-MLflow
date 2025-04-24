@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/695479601676848393/d67d647562ee44a897ff4e00fd189e5b/artifacts
+end_time: 1745525495577
+entry_point_name: ''
+experiment_id: '695479601676848393'
+lifecycle_stage: active
+run_id: d67d647562ee44a897ff4e00fd189e5b
+run_name: valuable-crab-745
+run_uuid: d67d647562ee44a897ff4e00fd189e5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745525481716
+status: 3
+tags: []
+user_id: benam

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/benam/Downloads/PredictiveMaintenance-MLflow/mlruns/0/68b73b0cdb25486c8dc1d9a98098335d/artifacts
+deleted_time: 1745444735871
+end_time: 1745444167590
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 68b73b0cdb25486c8dc1d9a98098335d
+run_name: righteous-shrimp-81
+run_uuid: 68b73b0cdb25486c8dc1d9a98098335d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745444157924
+status: 4
+tags: []
+user_id: benam

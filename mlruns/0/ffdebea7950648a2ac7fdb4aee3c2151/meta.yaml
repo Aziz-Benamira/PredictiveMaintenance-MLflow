@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/benam/Downloads/PredictiveMaintenance-MLflow/mlruns/0/ffdebea7950648a2ac7fdb4aee3c2151/artifacts
+end_time: 1745444775967
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ffdebea7950648a2ac7fdb4aee3c2151
+run_name: wise-boar-928
+run_uuid: ffdebea7950648a2ac7fdb4aee3c2151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745444766493
+status: 4
+tags: []
+user_id: benam

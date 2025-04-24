@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/695479601676848393/33a5d4f46e0548a2a217a3effd9fdf7c/artifacts
+end_time: 1745525746249
+entry_point_name: ''
+experiment_id: '695479601676848393'
+lifecycle_stage: active
+run_id: 33a5d4f46e0548a2a217a3effd9fdf7c
+run_name: orderly-stork-276
+run_uuid: 33a5d4f46e0548a2a217a3effd9fdf7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745525710856
+status: 4
+tags: []
+user_id: benam

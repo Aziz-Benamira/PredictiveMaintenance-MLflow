@@ -1,21 +1,20 @@
 name: PredictiveMaintenance
-
-  conda_env: conda.yaml
-
-  entry_points:
-    preprocess:
-      command: "python src/preprocess.py"
-    train:
-      parameters:
-        n_estimators: {type: int, default: 100}
-        max_depth: {type: int, default: 5}
-      command: "python src/train.py {n_estimators} {max_depth}"
-    evaluate:
-      parameters:
-        model_path: {type: string}
-      command: "python src/evaluate.py {model_path}"
-    deploy:
-      parameters:
-        model_name: {type: string}
-        version: {type: string}
-      command: "python src/deploy.py {model_name} {version}"
+conda_env: conda.yaml
+entry_points:
+  preprocess:
+    command: "python src/preprocess.py"
+  train:
+    parameters:
+      n_estimators: {type: int, default: 100}
+      max_depth: {type: int, default: 5}
+    command: "python src/train.py {n_estimators} {max_depth}"
+  evaluate:
+    parameters:
+      model_path: {type: string}
+    command: "python src/evaluate.py {model_path}"
+  deploy:
+    parameters:
+      model_name: {type: string, default: "PredictiveMaintenanceModel"}
+      version: {type: string, default: "1"}
+      port: {type: int, default: 5001}
+    command: "python src/deploy.py {model_name} {version} {port}"

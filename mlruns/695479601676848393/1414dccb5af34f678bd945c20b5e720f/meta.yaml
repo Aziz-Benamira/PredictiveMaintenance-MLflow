@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/695479601676848393/1414dccb5af34f678bd945c20b5e720f/artifacts
+end_time: 1745529348547
+entry_point_name: ''
+experiment_id: '695479601676848393'
+lifecycle_stage: active
+run_id: 1414dccb5af34f678bd945c20b5e720f
+run_name: popular-stag-472
+run_uuid: 1414dccb5af34f678bd945c20b5e720f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745529304987
+status: 4
+tags: []
+user_id: benam

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/benam/Downloads/PredictiveMaintenance-MLflow/mlruns/0/b80bc77a3d294aed8059c0e19762e300/artifacts
+end_time: 1745453964515
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b80bc77a3d294aed8059c0e19762e300
+run_name: omniscient-dove-489
+run_uuid: b80bc77a3d294aed8059c0e19762e300
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745453948436
+status: 4
+tags: []
+user_id: benam

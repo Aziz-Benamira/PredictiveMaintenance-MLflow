@@ -1,0 +1,35 @@
+Traceback (most recent call last):
+  File "C:\Users\benam\Anaconda3\envs\mlflow-ed012929c76ad66cd0ecce77ac49725b456f4f4a\lib\runpy.py", line 197, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "C:\Users\benam\Anaconda3\envs\mlflow-ed012929c76ad66cd0ecce77ac49725b456f4f4a\lib\runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "C:\Users\benam\Anaconda3\envs\mlflow-ed012929c76ad66cd0ecce77ac49725b456f4f4a\Scripts\mlflow.exe\__main__.py", line 7, in <module>
+  File "C:\Users\benam\Anaconda3\envs\mlflow-ed012929c76ad66cd0ecce77ac49725b456f4f4a\lib\site-packages\click\core.py", line 1161, in __call__
+    return self.main(*args, **kwargs)
+  File "C:\Users\benam\Anaconda3\envs\mlflow-ed012929c76ad66cd0ecce77ac49725b456f4f4a\lib\site-packages\click\core.py", line 1082, in main
+    rv = self.invoke(ctx)
+  File "C:\Users\benam\Anaconda3\envs\mlflow-ed012929c76ad66cd0ecce77ac49725b456f4f4a\lib\site-packages\click\core.py", line 1697, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "C:\Users\benam\Anaconda3\envs\mlflow-ed012929c76ad66cd0ecce77ac49725b456f4f4a\lib\site-packages\click\core.py", line 1697, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "C:\Users\benam\Anaconda3\envs\mlflow-ed012929c76ad66cd0ecce77ac49725b456f4f4a\lib\site-packages\click\core.py", line 1443, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "C:\Users\benam\Anaconda3\envs\mlflow-ed012929c76ad66cd0ecce77ac49725b456f4f4a\lib\site-packages\click\core.py", line 788, in invoke
+    return __callback(*args, **kwargs)
+  File "C:\Users\benam\Anaconda3\envs\mlflow-ed012929c76ad66cd0ecce77ac49725b456f4f4a\lib\site-packages\mlflow\models\cli.py", line 105, in serve
+    return get_flavor_backend(
+  File "C:\Users\benam\Anaconda3\envs\mlflow-ed012929c76ad66cd0ecce77ac49725b456f4f4a\lib\site-packages\mlflow\models\flavor_backend_registry.py", line 45, in get_flavor_backend
+    local_path = _download_artifact_from_uri(
+  File "C:\Users\benam\Anaconda3\envs\mlflow-ed012929c76ad66cd0ecce77ac49725b456f4f4a\lib\site-packages\mlflow\tracking\artifact_utils.py", line 100, in _download_artifact_from_uri
+    return get_artifact_repository(artifact_uri=root_uri).download_artifacts(
+  File "C:\Users\benam\Anaconda3\envs\mlflow-ed012929c76ad66cd0ecce77ac49725b456f4f4a\lib\site-packages\mlflow\store\artifact\artifact_repository_registry.py", line 106, in get_artifact_repository
+    return _artifact_repository_registry.get_artifact_repository(artifact_uri)
+  File "C:\Users\benam\Anaconda3\envs\mlflow-ed012929c76ad66cd0ecce77ac49725b456f4f4a\lib\site-packages\mlflow\store\artifact\artifact_repository_registry.py", line 72, in get_artifact_repository
+    return repository(artifact_uri)
+  File "C:\Users\benam\Anaconda3\envs\mlflow-ed012929c76ad66cd0ecce77ac49725b456f4f4a\lib\site-packages\mlflow\store\artifact\mlflow_artifacts_repo.py", line 45, in __init__
+    super().__init__(self.resolve_uri(artifact_uri, get_tracking_uri()))
+  File "C:\Users\benam\Anaconda3\envs\mlflow-ed012929c76ad66cd0ecce77ac49725b456f4f4a\lib\site-packages\mlflow\store\artifact\mlflow_artifacts_repo.py", line 59, in resolve_uri
+    _validate_uri_scheme(track_parse.scheme)
+  File "C:\Users\benam\Anaconda3\envs\mlflow-ed012929c76ad66cd0ecce77ac49725b456f4f4a\lib\site-packages\mlflow\store\artifact\mlflow_artifacts_repo.py", line 35, in _validate_uri_scheme
+    raise MlflowException(
+mlflow.exceptions.MlflowException: The configured tracking uri scheme: 'file' is invalid for use with the proxy mlflow-artifact scheme. The allowed tracking schemes are: {'http', 'https'}

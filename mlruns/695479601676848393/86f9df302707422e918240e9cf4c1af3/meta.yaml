@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/695479601676848393/86f9df302707422e918240e9cf4c1af3/artifacts
+end_time: 1745446826160
+entry_point_name: ''
+experiment_id: '695479601676848393'
+lifecycle_stage: active
+run_id: 86f9df302707422e918240e9cf4c1af3
+run_name: rogue-fowl-837
+run_uuid: 86f9df302707422e918240e9cf4c1af3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745446809899
+status: 3
+tags: []
+user_id: benam

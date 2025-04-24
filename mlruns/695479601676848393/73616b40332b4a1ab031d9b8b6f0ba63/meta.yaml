@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/695479601676848393/73616b40332b4a1ab031d9b8b6f0ba63/artifacts
+end_time: 1745448554599
+entry_point_name: ''
+experiment_id: '695479601676848393'
+lifecycle_stage: active
+run_id: 73616b40332b4a1ab031d9b8b6f0ba63
+run_name: puzzled-mink-505
+run_uuid: 73616b40332b4a1ab031d9b8b6f0ba63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745448519067
+status: 4
+tags: []
+user_id: benam

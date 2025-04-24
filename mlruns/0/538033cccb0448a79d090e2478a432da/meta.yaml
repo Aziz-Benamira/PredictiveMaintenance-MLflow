@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/benam/Downloads/PredictiveMaintenance-MLflow/mlruns/0/538033cccb0448a79d090e2478a432da/artifacts
+end_time: 1745444564734
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 538033cccb0448a79d090e2478a432da
+run_name: crawling-quail-205
+run_uuid: 538033cccb0448a79d090e2478a432da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745444555007
+status: 4
+tags: []
+user_id: benam

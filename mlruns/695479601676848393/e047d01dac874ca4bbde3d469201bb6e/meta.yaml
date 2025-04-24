@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/695479601676848393/e047d01dac874ca4bbde3d469201bb6e/artifacts
+end_time: 1745525666166
+entry_point_name: ''
+experiment_id: '695479601676848393'
+lifecycle_stage: active
+run_id: e047d01dac874ca4bbde3d469201bb6e
+run_name: vaunted-gnat-384
+run_uuid: e047d01dac874ca4bbde3d469201bb6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745525650126
+status: 3
+tags: []
+user_id: benam

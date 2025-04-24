@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/benam/Downloads/PredictiveMaintenance-MLflow/mlruns/0/2a40e1066d584b55a6b507e94be08cc0/artifacts
+deleted_time: 1745444735868
+end_time: 1745443949163
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2a40e1066d584b55a6b507e94be08cc0
+run_name: flawless-owl-859
+run_uuid: 2a40e1066d584b55a6b507e94be08cc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745443939698
+status: 4
+tags: []
+user_id: benam
